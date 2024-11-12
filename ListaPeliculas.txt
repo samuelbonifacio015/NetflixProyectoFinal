@@ -1,0 +1,20 @@
+1,El Padrino,175,Drama,Francis Ford Coppola,1972,Marlon Brando;Al Pacino;James Caan,9.2
+2,La Lista de Schindler,195,Drama,Steven Spielberg,1993,Liam Neeson;Ben Kingsley;Ralph Fiennes,8.9
+3,Inception,148,Ciencia Ficcion,Christopher Nolan,2010,Leonardo DiCaprio;Joseph Gordon-Levitt;Elliot Page,8.8
+4,Pulp Fiction,154,Crimen,Quentin Tarantino,1994,John Travolta;Uma Thurman;Samuel L. Jackson,8.9
+5,El Senor de los Anillos:La Comunidad del Anillo,178,Fantasia,Peter Jackson,2001,Elijah Wood;Ian McKellen;Viggo Mortensen,8.8
+6,Forrest Gump,142,Drama,Robert Zemeckis,1994,Tom Hanks;Robin Wright;Gary Sinise,8.8
+7,El Club de la Pelea,139,Drama,David Fincher,1999,Brad Pitt;Edward Norton;Helena Bonham Carter,8.8
+8,Matrix,136,Ciencia Ficcion,Lana Wachowski,1999,Keanu Reeves;Laurence Fishburne;Carrie-Anne Moss,8.7
+9,Gladiador,155,Accion,Ridley Scott,2000,Russell Crowe;Joaquin Phoenix;Connie Nielsen,8.5
+10,Los Infiltrados,151,Crimen,Martin Scorsese,2006,Leonardo DiCaprio;Matt Damon;Jack Nicholson,8.5
+11,12 Hombres en Pugna,96,Drama,Sidney Lumet,1957,Henry Fonda;Lee J. Cobb;Ed Begley,8.9
+12,El Silencio de los Corderos,118,Thriller,Jonathan Demme,1991,Jodie Foster;Anthony Hopkins;Scott Glenn,8.6
+13,La Vida es Bella,116,Comedia,Roberto Benigni,1997,Roberto Benigni;Nicoletta Braschi;Giorgio Cantarini,8.6
+14,El Viaje de Chihiro,125,Animacion,Hayao Miyazaki,2001,Rumi Hiiragi;Miyu Irino;Mari Natsuki,8.6
+15,Se7en,127,Thriller,David Fincher,1995,Morgan Freeman;Brad Pitt;Kevin Spacey,8.6
+16,Ciudad de Dios,130,Crimen,Fernando Meirelles,2002,Alexandre Rodrigues;Leandro Firmino;Phellipe Haagensen,8.6
+17,La Naranja Mecanica,136,Ciencia Ficcion,Stanley Kubrick,1971,Malcolm McDowell;Patrick Magee;Michael Bates,8.3
+18,El Gran Lebowski,117,Comedia,Joel Coen,1998,Jeff Bridges;John Goodman;Julianne Moore,8.1
+19,Mad Max:Furia en la Carretera,120,Accion,George Miller,2015,Tom Hardy;Charlize Theron;Nicholas Hoult,8.1
+20,La Forma del Agua,123,Fantasia,Guillermo del Toro,2017,Sally Hawkins;Doug Jones;Michael Shannon,7.3
